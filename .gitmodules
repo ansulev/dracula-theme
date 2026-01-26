@@ -1297,3 +1297,24 @@
 [submodule "themes/opencode"]
 	path = themes/opencode
 	url = https://github.com/dracula/opencode.git
+[submodule "themes/starship-powerline-preset"]
+	path = themes/starship-powerline-preset
+	url = https://github.com/dracula/starship-powerline-preset.git
+[submodule "themes/marta"]
+	path = themes/marta
+	url = https://github.com/dracula/marta.git
+[submodule "themes/home-assistant"]
+	path = themes/home-assistant
+	url = https://github.com/dracula/home-assistant.git
+[submodule "themes/beeper"]
+	path = themes/beeper
+	url = https://github.com/dracula/beeper.git
+[submodule "themes/trudido"]
+	path = themes/trudido
+	url = https://github.com/dracula/trudido.git
+[submodule "themes/freshrss"]
+	path = themes/freshrss
+	url = https://github.com/dracula/freshrss.git
+[submodule "themes/rackula"]
+	path = themes/rackula
+	url = https://github.com/dracula/rackula.git
